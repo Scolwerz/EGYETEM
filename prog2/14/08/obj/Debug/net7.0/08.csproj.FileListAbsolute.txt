@@ -1,0 +1,15 @@
+/home/hallgato/Asztal/Prog2_SZD/14/08/bin/Debug/net7.0/08
+/home/hallgato/Asztal/Prog2_SZD/14/08/bin/Debug/net7.0/08.deps.json
+/home/hallgato/Asztal/Prog2_SZD/14/08/bin/Debug/net7.0/08.runtimeconfig.json
+/home/hallgato/Asztal/Prog2_SZD/14/08/bin/Debug/net7.0/08.dll
+/home/hallgato/Asztal/Prog2_SZD/14/08/bin/Debug/net7.0/08.pdb
+/home/hallgato/Asztal/Prog2_SZD/14/08/obj/Debug/net7.0/08.csproj.AssemblyReference.cache
+/home/hallgato/Asztal/Prog2_SZD/14/08/obj/Debug/net7.0/08.GeneratedMSBuildEditorConfig.editorconfig
+/home/hallgato/Asztal/Prog2_SZD/14/08/obj/Debug/net7.0/08.AssemblyInfoInputs.cache
+/home/hallgato/Asztal/Prog2_SZD/14/08/obj/Debug/net7.0/08.AssemblyInfo.cs
+/home/hallgato/Asztal/Prog2_SZD/14/08/obj/Debug/net7.0/08.csproj.CoreCompileInputs.cache
+/home/hallgato/Asztal/Prog2_SZD/14/08/obj/Debug/net7.0/08.dll
+/home/hallgato/Asztal/Prog2_SZD/14/08/obj/Debug/net7.0/refint/08.dll
+/home/hallgato/Asztal/Prog2_SZD/14/08/obj/Debug/net7.0/08.pdb
+/home/hallgato/Asztal/Prog2_SZD/14/08/obj/Debug/net7.0/08.genruntimeconfig.cache
+/home/hallgato/Asztal/Prog2_SZD/14/08/obj/Debug/net7.0/ref/08.dll

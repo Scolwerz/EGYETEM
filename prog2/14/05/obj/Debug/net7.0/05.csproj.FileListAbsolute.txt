@@ -1,0 +1,15 @@
+/home/hallgato/Asztal/Prog2_SZD/14/05/obj/Debug/net7.0/05.csproj.AssemblyReference.cache
+/home/hallgato/Asztal/Prog2_SZD/14/05/obj/Debug/net7.0/05.GeneratedMSBuildEditorConfig.editorconfig
+/home/hallgato/Asztal/Prog2_SZD/14/05/obj/Debug/net7.0/05.AssemblyInfoInputs.cache
+/home/hallgato/Asztal/Prog2_SZD/14/05/obj/Debug/net7.0/05.AssemblyInfo.cs
+/home/hallgato/Asztal/Prog2_SZD/14/05/obj/Debug/net7.0/05.csproj.CoreCompileInputs.cache
+/home/hallgato/Asztal/Prog2_SZD/14/05/bin/Debug/net7.0/05
+/home/hallgato/Asztal/Prog2_SZD/14/05/bin/Debug/net7.0/05.deps.json
+/home/hallgato/Asztal/Prog2_SZD/14/05/bin/Debug/net7.0/05.runtimeconfig.json
+/home/hallgato/Asztal/Prog2_SZD/14/05/bin/Debug/net7.0/05.dll
+/home/hallgato/Asztal/Prog2_SZD/14/05/bin/Debug/net7.0/05.pdb
+/home/hallgato/Asztal/Prog2_SZD/14/05/obj/Debug/net7.0/05.dll
+/home/hallgato/Asztal/Prog2_SZD/14/05/obj/Debug/net7.0/refint/05.dll
+/home/hallgato/Asztal/Prog2_SZD/14/05/obj/Debug/net7.0/05.pdb
+/home/hallgato/Asztal/Prog2_SZD/14/05/obj/Debug/net7.0/05.genruntimeconfig.cache
+/home/hallgato/Asztal/Prog2_SZD/14/05/obj/Debug/net7.0/ref/05.dll

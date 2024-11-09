@@ -1,0 +1,5 @@
+/home/hallgato/Asztal/Prog2_SZD/14/02/obj/Debug/net7.0/02.csproj.AssemblyReference.cache
+/home/hallgato/Asztal/Prog2_SZD/14/02/obj/Debug/net7.0/02.GeneratedMSBuildEditorConfig.editorconfig
+/home/hallgato/Asztal/Prog2_SZD/14/02/obj/Debug/net7.0/02.AssemblyInfoInputs.cache
+/home/hallgato/Asztal/Prog2_SZD/14/02/obj/Debug/net7.0/02.AssemblyInfo.cs
+/home/hallgato/Asztal/Prog2_SZD/14/02/obj/Debug/net7.0/02.csproj.CoreCompileInputs.cache

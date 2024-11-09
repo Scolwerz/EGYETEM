@@ -1,0 +1,14 @@
+C:\Users\Scolwerz\Desktop\asdf\Egyetem\prog2\c#\Filmek\bin\Debug\net8.0\Filmek.exe
+C:\Users\Scolwerz\Desktop\asdf\Egyetem\prog2\c#\Filmek\bin\Debug\net8.0\Filmek.deps.json
+C:\Users\Scolwerz\Desktop\asdf\Egyetem\prog2\c#\Filmek\bin\Debug\net8.0\Filmek.runtimeconfig.json
+C:\Users\Scolwerz\Desktop\asdf\Egyetem\prog2\c#\Filmek\bin\Debug\net8.0\Filmek.dll
+C:\Users\Scolwerz\Desktop\asdf\Egyetem\prog2\c#\Filmek\bin\Debug\net8.0\Filmek.pdb
+C:\Users\Scolwerz\Desktop\asdf\Egyetem\prog2\c#\Filmek\obj\Debug\net8.0\Filmek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scolwerz\Desktop\asdf\Egyetem\prog2\c#\Filmek\obj\Debug\net8.0\Filmek.AssemblyInfoInputs.cache
+C:\Users\Scolwerz\Desktop\asdf\Egyetem\prog2\c#\Filmek\obj\Debug\net8.0\Filmek.AssemblyInfo.cs
+C:\Users\Scolwerz\Desktop\asdf\Egyetem\prog2\c#\Filmek\obj\Debug\net8.0\Filmek.csproj.CoreCompileInputs.cache
+C:\Users\Scolwerz\Desktop\asdf\Egyetem\prog2\c#\Filmek\obj\Debug\net8.0\Filmek.dll
+C:\Users\Scolwerz\Desktop\asdf\Egyetem\prog2\c#\Filmek\obj\Debug\net8.0\refint\Filmek.dll
+C:\Users\Scolwerz\Desktop\asdf\Egyetem\prog2\c#\Filmek\obj\Debug\net8.0\Filmek.pdb
+C:\Users\Scolwerz\Desktop\asdf\Egyetem\prog2\c#\Filmek\obj\Debug\net8.0\Filmek.genruntimeconfig.cache
+C:\Users\Scolwerz\Desktop\asdf\Egyetem\prog2\c#\Filmek\obj\Debug\net8.0\ref\Filmek.dll
