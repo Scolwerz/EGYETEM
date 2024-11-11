@@ -24,8 +24,8 @@ def update_space(x, y, colour):
     #index element from coordinate
     p = 8 * x + y
     game_space[p] = colour
-    sense.set_pixels(game_space)      
-            
+    sense.set_pixels(game_space)
+
 def left(event):
     if event.action == 'pressed':
         #the basket reached the left side
@@ -36,7 +36,7 @@ def left(event):
             update_space(basket[0], basket[1], w)
             basket[1] -= 1
             update_space(basket[0], basket[1] - 1, b)
-    
+
 def right(event):
     if event.action == 'pressed':
         #the basket reached the right side
@@ -56,7 +56,7 @@ sense.stick.direction_right = right
 sense.clear()
 sense.set_pixels(game_space)
 game_alive = True
-    
+
 while game_alive:
     #initialize position and direction of the ball
     #(x,y) – ball coordinate, d - direction
@@ -66,13 +66,13 @@ while game_alive:
     d = random.choice([-1,1])
     #put the ball into the game space
     update_space(x, y, r)
-        
-        
+
+
 #while the ball is in the game space
 while True:
     sleep(speed)
     update_space(x, y, w)
-        
+
     #ball is on the edge of x dimension
     if x == 7:
         if y == basket[1] – 1 or y == basket[1]:
@@ -84,7 +84,7 @@ while True:
             #ball is out of the space
             game_alive = False
             break
-         
+
     #ball reached the right side of the space
     if y == 7 and d == 1:
         d = -1
@@ -95,9 +95,8 @@ while True:
     y += d
     x += 1
     update_space(x, y, r)
-        
-    
+
+
 sense.clear()
 sense.show_message('Game over!', scroll_speed=0.05, back_colour=w)
-sense.show_message('Score: ' + str(score), scroll_speed=0.01, back_colour=w)        
-        
+sense.show_message('Score: ' + str(score), scroll_speed=0.01, back_colour=w)
