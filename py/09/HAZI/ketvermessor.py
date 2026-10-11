@@ -24,7 +24,7 @@ class MyQueue:
     def size(self):
         return len(self.verem1) + len(self.verem2)
 
-    def __str__:
+    def __str__(self):
         return '[' + ' '.join(str(elem) for elem in self.verem1) + ' '.join(str(elem) for elem in self.verem2) ']'
 
 

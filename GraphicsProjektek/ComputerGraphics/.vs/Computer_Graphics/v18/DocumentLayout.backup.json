@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asdf\\Egyetem\\EGYETEM\\GraphicsProjektek\\ComputerGraphics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4707C85C-D0E9-40F5-9CD7-8F2F2532E143}|03_VAO_VBO\\03_VAO_VBO.vcxproj|D:\\asdf\\Egyetem\\EGYETEM\\GraphicsProjektek\\ComputerGraphics\\03_VAO_VBO\\sunFragmentShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4707C85C-D0E9-40F5-9CD7-8F2F2532E143}|03_VAO_VBO\\03_VAO_VBO.vcxproj|solutionrelative:03_VAO_VBO\\sunFragmentShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4707C85C-D0E9-40F5-9CD7-8F2F2532E143}|03_VAO_VBO\\03_VAO_VBO.vcxproj|D:\\asdf\\Egyetem\\EGYETEM\\GraphicsProjektek\\ComputerGraphics\\03_VAO_VBO\\sunVertexShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4707C85C-D0E9-40F5-9CD7-8F2F2532E143}|03_VAO_VBO\\03_VAO_VBO.vcxproj|solutionrelative:03_VAO_VBO\\sunVertexShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4707C85C-D0E9-40F5-9CD7-8F2F2532E143}|03_VAO_VBO\\03_VAO_VBO.vcxproj|D:\\asdf\\Egyetem\\EGYETEM\\GraphicsProjektek\\ComputerGraphics\\03_VAO_VBO\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4707C85C-D0E9-40F5-9CD7-8F2F2532E143}|03_VAO_VBO\\03_VAO_VBO.vcxproj|solutionrelative:03_VAO_VBO\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4707C85C-D0E9-40F5-9CD7-8F2F2532E143}|03_VAO_VBO\\03_VAO_VBO.vcxproj|D:\\asdf\\Egyetem\\EGYETEM\\GraphicsProjektek\\ComputerGraphics\\03_VAO_VBO\\vertexShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4707C85C-D0E9-40F5-9CD7-8F2F2532E143}|03_VAO_VBO\\03_VAO_VBO.vcxproj|solutionrelative:03_VAO_VBO\\vertexShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4707C85C-D0E9-40F5-9CD7-8F2F2532E143}|03_VAO_VBO\\03_VAO_VBO.vcxproj|D:\\asdf\\Egyetem\\EGYETEM\\GraphicsProjektek\\ComputerGraphics\\03_VAO_VBO\\fragmentShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4707C85C-D0E9-40F5-9CD7-8F2F2532E143}|03_VAO_VBO\\03_VAO_VBO.vcxproj|solutionrelative:03_VAO_VBO\\fragmentShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sunFragmentShader.glsl",
+              "DocumentMoniker": "D:\\asdf\\Egyetem\\EGYETEM\\GraphicsProjektek\\ComputerGraphics\\03_VAO_VBO\\sunFragmentShader.glsl",
+              "RelativeDocumentMoniker": "03_VAO_VBO\\sunFragmentShader.glsl",
+              "ToolTip": "D:\\asdf\\Egyetem\\EGYETEM\\GraphicsProjektek\\ComputerGraphics\\03_VAO_VBO\\sunFragmentShader.glsl",
+              "RelativeToolTip": "03_VAO_VBO\\sunFragmentShader.glsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-14T19:39:35.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sunVertexShader.glsl",
+              "DocumentMoniker": "D:\\asdf\\Egyetem\\EGYETEM\\GraphicsProjektek\\ComputerGraphics\\03_VAO_VBO\\sunVertexShader.glsl",
+              "RelativeDocumentMoniker": "03_VAO_VBO\\sunVertexShader.glsl",
+              "ToolTip": "D:\\asdf\\Egyetem\\EGYETEM\\GraphicsProjektek\\ComputerGraphics\\03_VAO_VBO\\sunVertexShader.glsl",
+              "RelativeToolTip": "03_VAO_VBO\\sunVertexShader.glsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-14T19:39:15.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\asdf\\Egyetem\\EGYETEM\\GraphicsProjektek\\ComputerGraphics\\03_VAO_VBO\\Source.cpp",
+              "RelativeDocumentMoniker": "03_VAO_VBO\\Source.cpp",
+              "ToolTip": "D:\\asdf\\Egyetem\\EGYETEM\\GraphicsProjektek\\ComputerGraphics\\03_VAO_VBO\\Source.cpp",
+              "RelativeToolTip": "03_VAO_VBO\\Source.cpp",
+              "ViewState": "AgIAAJ8BAAAAAAAAAAAmwMYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-14T19:38:40.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vertexShader.glsl",
+              "DocumentMoniker": "D:\\asdf\\Egyetem\\EGYETEM\\GraphicsProjektek\\ComputerGraphics\\03_VAO_VBO\\vertexShader.glsl",
+              "RelativeDocumentMoniker": "03_VAO_VBO\\vertexShader.glsl",
+              "ToolTip": "D:\\asdf\\Egyetem\\EGYETEM\\GraphicsProjektek\\ComputerGraphics\\03_VAO_VBO\\vertexShader.glsl",
+              "RelativeToolTip": "03_VAO_VBO\\vertexShader.glsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-14T19:38:34.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fragmentShader.glsl",
+              "DocumentMoniker": "D:\\asdf\\Egyetem\\EGYETEM\\GraphicsProjektek\\ComputerGraphics\\03_VAO_VBO\\fragmentShader.glsl",
+              "RelativeDocumentMoniker": "03_VAO_VBO\\fragmentShader.glsl",
+              "ToolTip": "D:\\asdf\\Egyetem\\EGYETEM\\GraphicsProjektek\\ComputerGraphics\\03_VAO_VBO\\fragmentShader.glsl",
+              "RelativeToolTip": "03_VAO_VBO\\fragmentShader.glsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-14T19:38:28.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

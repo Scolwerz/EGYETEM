@@ -1,0 +1,133 @@
+﻿  Source.cpp
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\03_VAO_VBO\Source.cpp(23,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\03_VAO_VBO\Source.cpp(23,8): error C2146: syntax error: missing ';' before identifier 'texture'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(280,28): error C2378: 'GLuint': redefinition; symbol cannot be overloaded with a typedef
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\03_VAO_VBO\Source.cpp(23): message : see declaration of 'GLuint'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(850,75): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(850,75): error C2143: syntax error: missing ',' before '*'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(853,53): error C2061: syntax error: identifier 'GLuint'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(856,42): warning C4229: anachronism used: modifiers on data are ignored
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(856,23): error C2182: 'glCallList': illegal use of type 'void'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(856,42): error C2491: 'glCallList': definition of dllimport data not allowed
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(856,42): error C2146: syntax error: missing ')' before identifier 'list'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(877,42): warning C4229: anachronism used: modifiers on data are ignored
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(877,23): error C2182: 'glColor3ui': illegal use of type 'void'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(877,42): error C2491: 'glColor3ui': definition of dllimport data not allowed
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(877,42): error C2146: syntax error: missing ')' before identifier 'red'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(878,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(878,49): error C2143: syntax error: missing ',' before '*'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(893,42): warning C4229: anachronism used: modifiers on data are ignored
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(893,23): error C2182: 'glColor4ui': illegal use of type 'void'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(893,42): error C2491: 'glColor4ui': definition of dllimport data not allowed
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(893,42): error C2146: syntax error: missing ')' before identifier 'red'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(894,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(894,49): error C2143: syntax error: missing ',' before '*'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(906,45): warning C4229: anachronism used: modifiers on data are ignored
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(906,23): error C2182: 'glDeleteLists': illegal use of type 'void'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(906,45): error C2491: 'glDeleteLists': definition of dllimport data not allowed
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(906,45): error C2146: syntax error: missing ')' before identifier 'list'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(907,65): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(907,65): error C2143: syntax error: missing ',' before '*'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(945,14): error C2143: syntax error: missing ';' before '__cdecl'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(945,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(945,7): error C2370: 'GLuint': redefinition; different storage class
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\03_VAO_VBO\Source.cpp(23): message : see declaration of 'GLuint'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(945,51): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(946,49): error C2061: syntax error: identifier 'GLuint'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(961,53): error C2061: syntax error: identifier 'GLuint'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(977,43): warning C4229: anachronism used: modifiers on data are ignored
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(977,23): error C2182: 'glIndexMask': illegal use of type 'void'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(977,43): error C2491: 'glIndexMask': definition of dllimport data not allowed
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(977,43): error C2146: syntax error: missing ')' before identifier 'mask'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(992,45): warning C4229: anachronism used: modifiers on data are ignored
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(992,45): error C2491: 'glIsList': definition of dllimport data not allowed
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(992,45): error C2146: syntax error: missing ')' before identifier 'list'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(993,48): warning C4229: anachronism used: modifiers on data are ignored
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(993,48): error C2491: 'glIsTexture': definition of dllimport data not allowed
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(993,48): error C2146: syntax error: missing ')' before identifier 'texture'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1004,42): warning C4229: anachronism used: modifiers on data are ignored
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1004,23): error C2182: 'glListBase': illegal use of type 'void'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1004,42): error C2491: 'glListBase': definition of dllimport data not allowed
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1004,42): error C2146: syntax error: missing ')' before identifier 'base'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1008,42): warning C4229: anachronism used: modifiers on data are ignored
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1008,23): error C2182: 'glLoadName': illegal use of type 'void'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1008,42): error C2491: 'glLoadName': definition of dllimport data not allowed
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1008,42): error C2146: syntax error: missing ')' before identifier 'name'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1025,41): warning C4229: anachronism used: modifiers on data are ignored
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1025,23): error C2182: 'glNewList': illegal use of type 'void'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1025,41): error C2491: 'glNewList': definition of dllimport data not allowed
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1025,41): error C2146: syntax error: missing ')' before identifier 'list'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1040,80): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1040,80): error C2143: syntax error: missing ',' before '*'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1055,69): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1055,69): error C2143: syntax error: missing ',' before '*'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1059,42): warning C4229: anachronism used: modifiers on data are ignored
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1059,23): error C2182: 'glPushName': illegal use of type 'void'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1059,42): error C2491: 'glPushName': definition of dllimport data not allowed
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1059,42): error C2146: syntax error: missing ')' before identifier 'name'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1100,53): error C2061: syntax error: identifier 'GLuint'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1102,62): error C2061: syntax error: identifier 'GLuint'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1103,45): warning C4229: anachronism used: modifiers on data are ignored
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1103,23): error C2182: 'glStencilMask': illegal use of type 'void'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1103,45): error C2491: 'glStencilMask': definition of dllimport data not allowed
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1103,45): error C2146: syntax error: missing ')' before identifier 'mask'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1256,70): error C2061: syntax error: identifier 'GLuint'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1549,64): error C2165: 'left-side modifier': cannot modify pointers to data
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1549,64): error C2146: syntax error: missing ')' before identifier 'red'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1550,71): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1550,71): error C2143: syntax error: missing ',' before '*'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1682,65): error C2061: syntax error: identifier 'GLuint'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1683,65): error C2061: syntax error: identifier 'GLuint'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1686,76): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1686,76): error C2143: syntax error: missing ',' before '*'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1687,76): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1687,76): error C2143: syntax error: missing ',' before '*'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1689,61): error C2061: syntax error: identifier 'GLuint'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1690,61): error C2061: syntax error: identifier 'GLuint'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1694,63): error C2165: 'left-side modifier': cannot modify pointers to data
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1694,63): error C2146: syntax error: missing ')' before identifier 'id'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1695,64): error C2165: 'left-side modifier': cannot modify pointers to data
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1695,64): error C2146: syntax error: missing ')' before identifier 'id'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1697,60): error C2165: 'left-side modifier': cannot modify pointers to data
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1697,60): error C2146: syntax error: missing ')' before identifier 'buffer'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1698,59): error C2165: 'left-side modifier': cannot modify pointers to data
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1698,59): error C2146: syntax error: missing ')' before identifier 'id'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1816,59): error C2165: 'left-side modifier': cannot modify pointers to data
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1816,59): error C2146: syntax error: missing ')' before identifier 'program'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1817,65): error C2165: 'left-side modifier': cannot modify pointers to data
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1817,65): error C2146: syntax error: missing ')' before identifier 'program'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1819,60): error C2165: 'left-side modifier': cannot modify pointers to data
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1819,60): error C2146: syntax error: missing ')' before identifier 'shader'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1820,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1820,17): error C2378: 'GLuint': redefinition; symbol cannot be overloaded with a typedef
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\03_VAO_VBO\Source.cpp(23): message : see declaration of 'GLuint'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1820,17): error C2059: syntax error: '__cdecl'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1821,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1821,17): error C2378: 'GLuint': redefinition; symbol cannot be overloaded with a typedef
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\03_VAO_VBO\Source.cpp(23): message : see declaration of 'GLuint'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1821,17): error C2059: syntax error: '__cdecl'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1822,60): error C2165: 'left-side modifier': cannot modify pointers to data
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1822,60): error C2146: syntax error: missing ')' before identifier 'program'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1823,59): error C2165: 'left-side modifier': cannot modify pointers to data
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1823,59): error C2146: syntax error: missing ')' before identifier 'shader'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1824,59): error C2165: 'left-side modifier': cannot modify pointers to data
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1824,59): error C2146: syntax error: missing ')' before identifier 'program'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1825,71): error C2165: 'left-side modifier': cannot modify pointers to data
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1825,71): error C2146: syntax error: missing ')' before identifier 'index'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1827,70): error C2165: 'left-side modifier': cannot modify pointers to data
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1827,70): error C2146: syntax error: missing ')' before identifier 'index'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1828,62): error C2165: 'left-side modifier': cannot modify pointers to data
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1828,62): error C2146: syntax error: missing ')' before identifier 'program'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1829,63): error C2165: 'left-side modifier': cannot modify pointers to data
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1829,63): error C2146: syntax error: missing ')' before identifier 'program'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1830,65): error C2165: 'left-side modifier': cannot modify pointers to data
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1830,65): error C2146: syntax error: missing ')' before identifier 'program'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1831,65): error C2165: 'left-side modifier': cannot modify pointers to data
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1831,65): error C2146: syntax error: missing ')' before identifier 'program'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1832,64): error C2165: 'left-side modifier': cannot modify pointers to data
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1832,64): error C2146: syntax error: missing ')' before identifier 'program'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1833,59): error C2165: 'left-side modifier': cannot modify pointers to data
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1833,59): error C2146: syntax error: missing ')' before identifier 'program'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1834,63): error C2165: 'left-side modifier': cannot modify pointers to data
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1834,63): error C2146: syntax error: missing ')' before identifier 'shader'
+D:\asdf\Egyetem\EGYETEM\GraphicsProjektek\ComputerGraphics\OpenGLTemplate\include\GL\glew.h(1834,69): fatal error C1003: error count exceeds 100; stopping compilation

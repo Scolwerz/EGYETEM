@@ -18,11 +18,10 @@ def main():
             row = list(map(int, line.strip().split()))
             matrix.append(row)
 
-    result = checksum(input_matrix)
+    result = checksum(matrix)
     print("A táblázat ellenőrző összege:", result)
 
 
-#############################################################################
 
 if __name__ == "__main__":
     main()
