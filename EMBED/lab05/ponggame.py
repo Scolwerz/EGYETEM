@@ -64,6 +64,8 @@ d = random.choice([-1, 0, 1])
 update_space(x, y, r)
 
 def main():
+    global game_alive, x, y, d, score, up_down, bat
+    
     # game loop
     while game_alive:
         sleep(speed)

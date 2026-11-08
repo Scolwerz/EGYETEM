@@ -74,10 +74,12 @@ def move_pipes(space):
 
 
 def main():
+    global game_space
+    
     sense.stick.direction_any = draw_bird
     while not game_over:
         game_space = pipe_generator(game_space)
-        for i in range(3):
+        for i in range(4):
             sense.set_pixels(game_space)
             sense.set_pixel(y, x, w)
             check_collision()
